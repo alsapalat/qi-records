@@ -1,0 +1,27 @@
+.customspan{
+	margin:50px;
+}
+
+.qi-highlight{
+	color:#e67e22;
+
+}
+
+.navbar-inverse{
+	background-color:#212121;	
+}
+
+.navbar-inverse .navbar-brand{
+	color: #bdc3c7;
+	margin-top:5px;
+}
+
+.navbar-inverse .navbar-brand:hover,
+.navbar-inverse .navbar-brand:focus{
+	color: #ffffff;
+}
+
+.nav-item .active{
+	color:#e67e22 !important;
+	border-bottom: 3px solid #e67e22;
+}
